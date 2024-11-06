@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=LXGW+WenKai+Mono+TC&family=Rubik+Wet+Paint&display=swap');
+
+body {
+    background-color: gray;
+    font-family: "Itim", cursive;
+    color: #ffffffdc;
+}
+
+.hed {
+    font-family: "Rubik Wet Paint", system-ui;
+    background-color: rgb(1, 3, 3);
+    color: rgb(255, 60, 0);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-size: larger;
+}
+
+.gg {
+    background-color: aquamarine;
+    text-decoration: underline;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.yo {
+    background-color: aquamarine;
+    text-decoration: underline;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+p,
+li {
+    font-size: 20px;
+    line-height: 1.5;
+}
